@@ -1,0 +1,9 @@
+comandos en git Bash 
+
+      git clone [url] //copiar un repocitorio en nuestra computadora
+
+      git status // muestra los archivos que se modificaron
+
+      git add [archivos] //guarda los cambios 
+
+      git commit -m "[anotacion]"
