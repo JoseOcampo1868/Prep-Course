@@ -6,4 +6,6 @@ comandos en git Bash
 
       git add [archivos] //guarda los cambios 
 
-      git commit -m "[anotacion]"
+      git commit -m "[anotacion]" //confirma los cambios
+
+      git push // guarda los datos del repo local en el repositorio en remoto de git hub
